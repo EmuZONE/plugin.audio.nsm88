@@ -129,10 +129,6 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
                      {'name': '12. Du bist immer so negativ',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/023/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/023/012.mp3',
-                      'genre': 'Rock'},
-                     {'name': '13. Oi,Oi,Oi',
-                      'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/023/Cover.jpg',
-                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/023/013.mp3',
                       'genre': 'Rock'}
 
                      ],
