@@ -82,7 +82,7 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
                       
                       ],
           
-          'Bound for Glory - Glory Awaits': [{'name': '01. Eugens March',
+          'Bound for Glory - Glory Awaits': [{'name': '01. Glory Awaits/Fighting Man',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/027/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/027/001.mp3',
                       'genre': 'Rock'},
