@@ -130,7 +130,7 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/069/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/069/012.mp3',
                       'genre': 'Rock'},
-                     {'name': '13. Ung Och Stolt',
+                     {'name': '13. Hjaltar',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/069/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/069/013.mp3',
                       'genre': 'Rock'}
