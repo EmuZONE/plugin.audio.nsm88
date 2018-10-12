@@ -84,6 +84,25 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
                       
                       ],
           
+          'HKL - Tag der Freiheit': [{'name': '01. Rücken zur Wand',
+                      'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/001.mp3',
+                      'genre': 'Rock'},
+                     {'name': '02. A Way of Life',
+                      'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/002.mp3',
+                      'genre': 'Rock'},
+                     {'name': '03. Tag der Freiheit',
+                      'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/003.mp3',
+                      'genre': 'Rock'},
+                     {'name': '04. Michel',
+                      'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/xx2/004.mp3',
+                      'genre': 'Rock'}
+
+                     ],
+          
           'Bloodshed - AuÃŸer Kontrolle': [{'name': '01. Intro',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/090/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/090/001.mp3',
