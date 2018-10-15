@@ -3149,7 +3149,7 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
 
                      ],
           
-          'ueberzeugungstaeter - Entscheidungstraeger': [{'name': '01. Vorwort',
+          'Uberzeugungstaeter - Entscheidungstraeger': [{'name': '01. Vorwort',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/047/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/047/001.mp3',
                       'genre': 'Rock'},
