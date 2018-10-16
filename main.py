@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: ISO-8859-1 -*-
 # Module: default
 # Author: YggDraz1l for EmuZONE
 # Created on: 28.06.2018
