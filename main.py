@@ -10538,7 +10538,7 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
                       
                      ],
                      
-                     'ErschieÃƒ?ungskommando - Sieg oder Tod': [{'name': '01. Intro',
+                     'Erschießungskommando - Sieg oder Tod': [{'name': '01. Intro',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/052/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/052/001.mp3',
                       'genre': 'Rock'},
@@ -10586,7 +10586,7 @@ VIDEOS = {'Ultima Thule - For Faderneslandet': [{'name': '01. Poltava (03:39)',
                      ],
                      
 
-                     'Erschieungskommando - Blut & Ehre': [{'name': '01. ErschieÃƒ?ungskommando',
+                     'Erschießungskommando - Blut & Ehre': [{'name': '01. Erschießungskommando',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/053/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/Sounds/053/001.mp3',
                       'genre': 'Rock'},
