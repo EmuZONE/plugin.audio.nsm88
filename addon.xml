@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.audio.rac"
 version="2.3.5"
-name="[COLOR red]R.A.C.[/COLOR][COLOR white] Music Libary[/COLOR]"
-provider-name="EmuZONE - [COLOR black]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
+name="[COLOR red]R.A.C.[/COLOR][COLOR white] Musik Bibliothek[/COLOR]"
+provider-name="EmuZONE - [COLOR grey]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
 </requires>
