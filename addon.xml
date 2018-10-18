@@ -12,8 +12,8 @@ provider-name="EmuZONE - [COLOR darkgrey]THE[/COLOR] [COLOR white]FOURTH[/COLOR]
   <summary>Musik Alben Sammlung</summary>
 <extension point="xbmc.addon.metadata">
   <summary lang="de">Rock Against Communism!</summary>
-  <description lang="de_DE">Eine st√§ndig wachsende Bibliothek bester Rechtsrock Musik. Bitte bleibt trotz unseres Angebotes Fair und unterst√ºtzt die Bands durch Kauf ihrer Alben.</description>
-  <disclaimer lang="de_DE">Bitte Unterstuetzt die Bands durch den Kauf ihrer Tontraeger, seine Kameraden beklaut man nicht!</disclaimer>
+  <description lang="de_DE">Eine st√§ndig wachsende Bibliothek bester Rechtsrock Musik. Bitte bleibt trotz unseres angebotes Fair und unterst√ºtzt die Bands durch Kauf ihrer Alben. Besucht daf¸r die Web Shops von PC-Records oder Opos-Records.</description>
+  <disclaimer lang="de_DE">Gutmenschen Aufgepasst! Die Lyric der hier angebotenen Musik kann zu schweren Sch‰den am B¸ﬂerkult und der Ersatzreligion von alleiniger Schuld nachsich ziehen.</disclaimer>
 <assets>
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>    
