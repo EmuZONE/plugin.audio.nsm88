@@ -5863,15 +5863,15 @@ VIDEOS = {'Ultima Thule - For Fäderneslandet': [{'name': '01. Poltava (03:39)',
                       'genre': 'Rock'},
                      {'name': '09. Als Der Schnee Fiel',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/Cover1.jpg',
-                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/009.mp3',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/09.mp3',
                       'genre': 'Rock'},
                      {'name': '10. German-British Friendship (1992)',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/Cover1.jpg',
-                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/010.mp3',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/10.mp3',
                       'genre': 'Rock'},
                      {'name': '11. European Unity',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/Cover1.jpg',
-                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/011.mp3',
+                      'video': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/audio/092/11.mp3',
                       'genre': 'Rock'}
 
 
