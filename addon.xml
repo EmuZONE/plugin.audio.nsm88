@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.audio.rac"
-version="2.3.6"
+version="2.3.7"
 name="[COLOR red]R.A.C.[/COLOR][COLOR white] Musik Bibliothek[/COLOR]"
-provider-name="EmuZONE - [COLOR darkgrey]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
+provider-name="[COLOR darkgrey]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>audio</provides>
 </extension>
-  <summary>Musik Alben Sammlung</summary>
+  <Summary lang="de_DE">Musik Alben Sammlung</summary>
 <extension point="xbmc.addon.metadata">
-  <summary lang="de">Rock Against Communism!</summary>
   <description lang="de_DE">Eine stÃ¤ndig wachsende Bibliothek bester Rechtsrock Musik. Bitte bleibt trotz unseres angebotes Fair und unterstÃ¼tzt die Bands durch Kauf ihrer Alben. Besucht dafür die Web Shops von PC-Records oder Opos-Records.</description>
   <disclaimer lang="de_DE">Gutmenschen Aufgepasst! Die Lyric der hier angebotenen Musik kann zu schweren Schäden am Büßerkult und der Ersatzreligion von alleiniger Schuld nachsich ziehen.</disclaimer>
 <assets>
