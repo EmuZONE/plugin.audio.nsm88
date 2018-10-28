@@ -1011,6 +1011,18 @@ VIDEOS = {'Ultima Thule - For Fäderneslandet': [{'name': '01. Poltava (03:39)',
 
                      ],
                      
+                     'Uwocaust und alte Freunde - Unsterblichkeit EP': [{'name': '01. Anti-Parasitismus',
+                      'thumb': 'http://88nsm.com/uploads/posts/2014-08/1407865783_front.jpg',
+                      'video': 'https://drive.google.com/uc?export=download&id=1Vq9OFaTkC8qoCDUFZ74Uu6w3Fde7tN14',
+                      'genre': 'Rock'},
+                     {'name': '02. Farce',
+                      'thumb': 'http://88nsm.com/uploads/posts/2014-08/1407865783_front.jpg',
+                      'video': 'https://drive.google.com/uc?export=download&id=158tPbncaQ2Iy5xJe1AmwUqr9l31bIDW5',
+                      'genre': 'Rock'}
+
+
+                     ],
+                     
                      'W.A.W. - Lieder zum Mitsingen': [{'name': '01. Weisser Arischer Widerstand (01:22)',
                       'thumb': 'https://raw.githubusercontent.com/EmuZONE/YouTube/master/Images/waw.jpg',
                       'video': 'https://drive.google.com/uc?export=download&id=1Ol1vRYtgZfkbBGw_YWzl2WHdwxJhDgoX',
