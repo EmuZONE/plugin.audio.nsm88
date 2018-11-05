@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.audio.rac"
+<addon id="plugin.audio.nsm88"
 version="2.3.7"
-name="[COLOR red]R.A.C.[/COLOR][COLOR white] Musik Bibliothek[/COLOR]"
+name="[COLOR red]NSM[/COLOR][COLOR white] 88[/COLOR][COLOR red] Music[/COLOR]"
 provider-name="[COLOR darkgrey]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
